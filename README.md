@@ -1,2 +1,7 @@
 # freecodecamp-python
-Python exercises and labs completed while learning through FreeCodeCamp.
+
+This repository contains Python exercises and labs completed while learning Python through FreeCodeCamp.
+
+## Exercises
+
+- PIN Extractor
