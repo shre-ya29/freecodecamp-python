@@ -5,3 +5,4 @@ This repository contains Python exercises and labs completed while learning Pyth
 ## Exercises
 
 - PIN Extractor
+- Medical Records Validator
