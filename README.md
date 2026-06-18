@@ -6,3 +6,4 @@ This repository contains Python exercises and labs completed while learning Pyth
 
 - PIN Extractor
 - Medical Records Validator
+- user congiguration manager
