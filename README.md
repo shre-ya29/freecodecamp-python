@@ -9,3 +9,4 @@ This repository contains Python exercises and labs completed while learning Pyth
 - user congiguration manager
 - musical instrument inventory
 - email simulator
+- build a budget app
