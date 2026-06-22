@@ -10,3 +10,5 @@ This repository contains Python exercises and labs completed while learning Pyth
 - musical instrument inventory
 - email simulator
 - build a budget app
+- salary tracker
+- media catalogue
