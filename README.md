@@ -14,4 +14,4 @@ This repository contains Python exercises and labs completed while learning Pyth
 - media catalogue
 - discount calculator
 - polygon area calculator
-- 
+  
