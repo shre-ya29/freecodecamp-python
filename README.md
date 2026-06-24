@@ -12,3 +12,6 @@ This repository contains Python exercises and labs completed while learning Pyth
 - build a budget app
 - salary tracker
 - media catalogue
+- discount calculator
+- polygon area calculator
+- 
